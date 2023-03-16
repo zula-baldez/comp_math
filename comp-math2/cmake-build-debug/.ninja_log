@@ -1,0 +1,7 @@
+# ninja log v5
+2	185	7006566279928649	build.ninja	52badb9e4099c6f4
+3	847	7006563477256271	CMakeFiles/comp_math2.dir/main.cpp.obj	4eb99f1ea94e3916
+847	952	7006563478286504	comp_math2.exe	41e602de737ab0bb
+8	465	7004232305113377	CMakeFiles/comp_math2.dir/secant/SecantMethod.cpp.obj	1c7a039a942b24f7
+8	705	7006562734902592	CMakeFiles/comp_math2.dir/iterations/IterationMethod.cpp.obj	f94720a28089d8ad
+13	466	7004232305123385	CMakeFiles/comp_math2.dir/bisection/BisectionMethod.cpp.obj	6b8f8ff4106cd35e

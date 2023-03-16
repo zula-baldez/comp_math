@@ -1,0 +1,3 @@
+C:/Users/moyak/CLionProjects/comp-math/comp-math2/cmake-build-debug/CMakeFiles/comp_math2.dir
+C:/Users/moyak/CLionProjects/comp-math/comp-math2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/moyak/CLionProjects/comp-math/comp-math2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
