@@ -1,0 +1,3 @@
+C:/Users/moyak/CLionProjects/untitled8/cmake-build-release/CMakeFiles/untitled8.dir
+C:/Users/moyak/CLionProjects/untitled8/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/moyak/CLionProjects/untitled8/cmake-build-release/CMakeFiles/rebuild_cache.dir

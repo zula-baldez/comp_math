@@ -1,0 +1,22 @@
+# ninja log v5
+13	1733	6985919948541532	CMakeFiles/untitled8.dir/main.cpp.obj	33b9c548c25d79ef
+1	272	6993108702481755	build.ninja	fb2a7beb1736ce25
+1595	1762	6985922094598884	untitled8.exe	19d0ee6e24e47e36
+28	1291	6985919944123534	CMakeFiles/untitled8.dir/Row.cpp.obj	9d86e0d9b2c80786
+20	2014	6985919951313294	CMakeFiles/untitled8.dir/RandomMatrix.cpp.obj	e52aa62e2a13eb43
+5	1594	6985922093036275	CMakeFiles/untitled8.dir/Matrix.cpp.obj	c3ab18e9ee00b624
+10	838	6993113093650204	CMakeFiles/untitled8.dir/Row.cpp.obj	9d86e0d9b2c80786
+3	1041	6993113095680604	CMakeFiles/untitled8.dir/main.cpp.obj	33b9c548c25d79ef
+7	1158	6993113096850856	CMakeFiles/untitled8.dir/Matrix.cpp.obj	c3ab18e9ee00b624
+14	1174	6993113097010889	CMakeFiles/untitled8.dir/MatrixWithGauss.cpp.obj	9558e1a5afc43a30
+1175	1368	6993113098921461	untitled8.exe	874f3520b55fbee3
+3	550	6993113256288995	CMakeFiles/untitled8.dir/Row.cpp.obj	9d86e0d9b2c80786
+550	640	6993113257139330	untitled8.exe	874f3520b55fbee3
+3	662	6993114071453374	CMakeFiles/untitled8.dir/main.cpp.obj	33b9c548c25d79ef
+662	749	6993114072304264	untitled8.exe	874f3520b55fbee3
+9	639	6994654052638363	CMakeFiles/untitled8.dir/Row.cpp.obj	9d86e0d9b2c80786
+3	678	6994654053028450	CMakeFiles/untitled8.dir/main.cpp.obj	33b9c548c25d79ef
+14	1086	6994654057104428	CMakeFiles/untitled8.dir/MatrixWithGauss.cpp.obj	9558e1a5afc43a30
+1086	1184	6994654058054507	untitled8.exe	874f3520b55fbee3
+4	1070	6994654861942786	CMakeFiles/untitled8.dir/MatrixWithGauss.cpp.obj	9558e1a5afc43a30
+1070	1161	6994654862823012	untitled8.exe	874f3520b55fbee3
