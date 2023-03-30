@@ -86,6 +86,7 @@ int main() {
                 }
             }
         } else {
+        //x = func1(x)
             auto system = std::vector<std::function<double(std::vector<double>)>>{func1_system, func2_system,
                                                                                   func3_system};
             auto ans = iterationMethod.solve_system(system, 0.000001);

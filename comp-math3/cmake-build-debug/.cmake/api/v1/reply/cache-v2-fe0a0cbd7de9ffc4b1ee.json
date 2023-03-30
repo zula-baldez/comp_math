@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/moyak/CLionProjects/comp-math/comp-math2/cmake-build-debug"
+			"value" : "c:/Users/moyak/CLionProjects/comp-math3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/moyak/CLionProjects/comp-math/comp-math2"
+			"value" : "C:/Users/moyak/CLionProjects/comp-math3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/comp_math2"
+			"value" : "C:/Program Files (x86)/comp_math3"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -851,7 +851,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "comp_math2"
+			"value" : "comp_math3"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1230,7 +1230,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "comp_math2_BINARY_DIR",
+			"name" : "comp_math3_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1239,10 +1239,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/moyak/CLionProjects/comp-math/comp-math2/cmake-build-debug"
+			"value" : "C:/Users/moyak/CLionProjects/comp-math3/cmake-build-debug"
 		},
 		{
-			"name" : "comp_math2_IS_TOP_LEVEL",
+			"name" : "comp_math3_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1254,7 +1254,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "comp_math2_SOURCE_DIR",
+			"name" : "comp_math3_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/moyak/CLionProjects/comp-math/comp-math2"
+			"value" : "C:/Users/moyak/CLionProjects/comp-math3"
 		}
 	],
 	"kind" : "cache",
