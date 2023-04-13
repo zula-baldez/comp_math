@@ -1,16 +1,14 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/comp_math2.dir/bisection/BisectionMethod.cpp.obj"
-  "CMakeFiles/comp_math2.dir/bisection/BisectionMethod.cpp.obj.d"
-  "CMakeFiles/comp_math2.dir/iterations/IterationMethod.cpp.obj"
-  "CMakeFiles/comp_math2.dir/iterations/IterationMethod.cpp.obj.d"
-  "CMakeFiles/comp_math2.dir/main.cpp.obj"
-  "CMakeFiles/comp_math2.dir/main.cpp.obj.d"
-  "CMakeFiles/comp_math2.dir/secant/SecantMethod.cpp.obj"
-  "CMakeFiles/comp_math2.dir/secant/SecantMethod.cpp.obj.d"
-  "comp_math2.exe"
-  "comp_math2.exe.manifest"
+  "CMakeFiles/comp_math2.dir/bisection/BisectionMethod.cpp.o"
+  "CMakeFiles/comp_math2.dir/bisection/BisectionMethod.cpp.o.d"
+  "CMakeFiles/comp_math2.dir/iterations/IterationMethod.cpp.o"
+  "CMakeFiles/comp_math2.dir/iterations/IterationMethod.cpp.o.d"
+  "CMakeFiles/comp_math2.dir/main.cpp.o"
+  "CMakeFiles/comp_math2.dir/main.cpp.o.d"
+  "CMakeFiles/comp_math2.dir/secant/SecantMethod.cpp.o"
+  "CMakeFiles/comp_math2.dir/secant/SecantMethod.cpp.o.d"
+  "comp_math2"
   "comp_math2.pdb"
-  "libcomp_math2.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

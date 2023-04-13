@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/moyak/CLionProjects/comp-math/comp-math2/bisection/BisectionMethod.cpp" "CMakeFiles/comp_math2.dir/bisection/BisectionMethod.cpp.obj" "gcc" "CMakeFiles/comp_math2.dir/bisection/BisectionMethod.cpp.obj.d"
-  "C:/Users/moyak/CLionProjects/comp-math/comp-math2/iterations/IterationMethod.cpp" "CMakeFiles/comp_math2.dir/iterations/IterationMethod.cpp.obj" "gcc" "CMakeFiles/comp_math2.dir/iterations/IterationMethod.cpp.obj.d"
-  "C:/Users/moyak/CLionProjects/comp-math/comp-math2/main.cpp" "CMakeFiles/comp_math2.dir/main.cpp.obj" "gcc" "CMakeFiles/comp_math2.dir/main.cpp.obj.d"
-  "C:/Users/moyak/CLionProjects/comp-math/comp-math2/secant/SecantMethod.cpp" "CMakeFiles/comp_math2.dir/secant/SecantMethod.cpp.obj" "gcc" "CMakeFiles/comp_math2.dir/secant/SecantMethod.cpp.obj.d"
+  "/home/egor/CLionProjects/comp_math/comp-math2/bisection/BisectionMethod.cpp" "CMakeFiles/comp_math2.dir/bisection/BisectionMethod.cpp.o" "gcc" "CMakeFiles/comp_math2.dir/bisection/BisectionMethod.cpp.o.d"
+  "/home/egor/CLionProjects/comp_math/comp-math2/iterations/IterationMethod.cpp" "CMakeFiles/comp_math2.dir/iterations/IterationMethod.cpp.o" "gcc" "CMakeFiles/comp_math2.dir/iterations/IterationMethod.cpp.o.d"
+  "/home/egor/CLionProjects/comp_math/comp-math2/main.cpp" "CMakeFiles/comp_math2.dir/main.cpp.o" "gcc" "CMakeFiles/comp_math2.dir/main.cpp.o.d"
+  "/home/egor/CLionProjects/comp_math/comp-math2/secant/SecantMethod.cpp" "CMakeFiles/comp_math2.dir/secant/SecantMethod.cpp.o" "gcc" "CMakeFiles/comp_math2.dir/secant/SecantMethod.cpp.o.d"
   )
 
 # Targets to which this target links.

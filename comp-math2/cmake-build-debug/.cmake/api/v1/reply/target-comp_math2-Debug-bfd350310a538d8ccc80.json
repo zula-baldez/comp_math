@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "comp_math2.exe"
-		},
-		{
-			"path" : "comp_math2.pdb"
+			"path" : "comp_math2"
 		}
 	],
 	"backtrace" : 1,
@@ -38,7 +35,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g"
+					"fragment" : "-g -fdiagnostics-color=always"
 				},
 				{
 					"fragment" : "-std=gnu++20"
@@ -74,16 +71,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "comp_math2",
-	"nameOnDisk" : "comp_math2.exe",
+	"nameOnDisk" : "comp_math2",
 	"paths" : 
 	{
 		"build" : ".",

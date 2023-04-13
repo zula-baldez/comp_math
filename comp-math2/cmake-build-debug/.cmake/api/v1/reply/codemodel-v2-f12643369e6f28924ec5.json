@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.22"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "comp_math2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-comp_math2-Debug-274e6751fd35c8ec0033.json",
+					"jsonFile" : "target-comp_math2-Debug-bfd350310a538d8ccc80.json",
 					"name" : "comp_math2",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/moyak/CLionProjects/comp-math/comp-math2/cmake-build-debug",
-		"source" : "C:/Users/moyak/CLionProjects/comp-math/comp-math2"
+		"build" : "/home/egor/CLionProjects/comp_math/comp-math2/cmake-build-debug",
+		"source" : "/home/egor/CLionProjects/comp_math/comp-math2"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }
