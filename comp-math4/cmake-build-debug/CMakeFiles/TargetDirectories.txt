@@ -1,0 +1,3 @@
+/home/egor/CLionProjects/comp_math/comp-math4/cmake-build-debug/CMakeFiles/comp_math4.dir
+/home/egor/CLionProjects/comp_math/comp-math4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/egor/CLionProjects/comp_math/comp-math4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
