@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -rdynamic CMakeFiles/comp_math4.dir/main.o CMakeFiles/comp_math4.dir/NewtonMethod.o -o comp_math4  -lpython3.10 

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/egor/CLionProjects/comp_math/comp-math4/cmake-build-debug"
+			"value" : "/home/egor/CLionProjects/comp_math/comp-math5/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/egor/CLionProjects/comp_math/comp-math4/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/egor/CLionProjects/comp_math/comp-math5/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/egor/CLionProjects/comp_math/comp-math4"
+			"value" : "/home/egor/CLionProjects/comp_math/comp-math5"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -843,7 +843,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "comp_math4"
+			"value" : "comp_math5"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1198,7 +1198,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "comp_math4_BINARY_DIR",
+			"name" : "comp_math5_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1207,10 +1207,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/egor/CLionProjects/comp_math/comp-math4/cmake-build-debug"
+			"value" : "/home/egor/CLionProjects/comp_math/comp-math5/cmake-build-debug"
 		},
 		{
-			"name" : "comp_math4_IS_TOP_LEVEL",
+			"name" : "comp_math5_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1222,7 +1222,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "comp_math4_SOURCE_DIR",
+			"name" : "comp_math5_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1231,7 +1231,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/egor/CLionProjects/comp_math/comp-math4"
+			"value" : "/home/egor/CLionProjects/comp_math/comp-math5"
 		}
 	],
 	"kind" : "cache",

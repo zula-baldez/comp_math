@@ -1,0 +1,9 @@
+/opt/clion-2022.3.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion-2022.3.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/egor/CLionProjects/comp_math/comp-math5 -B /home/egor/CLionProjects/comp_math/comp-math5/cmake-build-debug
+-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found version "3.10.6") 
+CMake Error at CMakeLists.txt:9 (target_link_libraries):
+  Cannot specify link libraries for target "comp_math4" which is not built by
+  this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/egor/CLionProjects/comp_math/comp-math5/cmake-build-debug/CMakeFiles/CMakeOutput.log".

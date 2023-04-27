@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "comp_math4"
+			"path" : "comp_math5"
 		}
 	],
 	"backtrace" : 1,
@@ -75,7 +75,7 @@
 			]
 		}
 	],
-	"id" : "comp_math4::@6890427a1f51a3e7e1df",
+	"id" : "comp_math5::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -96,8 +96,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "comp_math4",
-	"nameOnDisk" : "comp_math4",
+	"name" : "comp_math5",
+	"nameOnDisk" : "comp_math5",
 	"paths" : 
 	{
 		"build" : ".",
@@ -133,12 +133,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "NewtonMethod.cpp",
+			"path" : "MilneMethod.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "NewtonMethod.h",
+			"path" : "MilneMethod.h",
 			"sourceGroupIndex" : 1
 		},
 		{

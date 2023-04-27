@@ -49,16 +49,16 @@ cmake_ninja_workdir = /home/egor/CLionProjects/comp_math/comp-math4/cmake-build-
 
 build cmake_object_order_depends_target_comp_math4: phony || CMakeFiles/comp_math4.dir
 
-build CMakeFiles/comp_math4.dir/main.cpp.o: CXX_COMPILER__comp_math4_Debug /home/egor/CLionProjects/comp_math/comp-math4/main.cpp || cmake_object_order_depends_target_comp_math4
-  DEP_FILE = CMakeFiles/comp_math4.dir/main.cpp.o.d
-  FLAGS = -g -fdiagnostics-color=always
+build CMakeFiles/comp_math4.dir/main.o: CXX_COMPILER__comp_math4_Debug /home/egor/CLionProjects/comp_math/comp-math4/main.cpp || cmake_object_order_depends_target_comp_math4
+  DEP_FILE = CMakeFiles/comp_math4.dir/main.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
   INCLUDES = -I/usr/include/python3.10
   OBJECT_DIR = CMakeFiles/comp_math4.dir
   OBJECT_FILE_DIR = CMakeFiles/comp_math4.dir
 
-build CMakeFiles/comp_math4.dir/NewtonMethod.cpp.o: CXX_COMPILER__comp_math4_Debug /home/egor/CLionProjects/comp_math/comp-math4/NewtonMethod.cpp || cmake_object_order_depends_target_comp_math4
-  DEP_FILE = CMakeFiles/comp_math4.dir/NewtonMethod.cpp.o.d
-  FLAGS = -g -fdiagnostics-color=always
+build CMakeFiles/comp_math4.dir/NewtonMethod.o: CXX_COMPILER__comp_math4_Debug /home/egor/CLionProjects/comp_math/comp-math4/NewtonMethod.cpp || cmake_object_order_depends_target_comp_math4
+  DEP_FILE = CMakeFiles/comp_math4.dir/NewtonMethod.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
   INCLUDES = -I/usr/include/python3.10
   OBJECT_DIR = CMakeFiles/comp_math4.dir
   OBJECT_FILE_DIR = CMakeFiles/comp_math4.dir
@@ -71,9 +71,10 @@ build CMakeFiles/comp_math4.dir/NewtonMethod.cpp.o: CXX_COMPILER__comp_math4_Deb
 #############################################
 # Link the executable comp_math4
 
-build comp_math4: CXX_EXECUTABLE_LINKER__comp_math4_Debug CMakeFiles/comp_math4.dir/main.cpp.o CMakeFiles/comp_math4.dir/NewtonMethod.cpp.o | /usr/lib/x86_64-linux-gnu/libpython3.10.so
+build comp_math4: CXX_EXECUTABLE_LINKER__comp_math4_Debug CMakeFiles/comp_math4.dir/main.o CMakeFiles/comp_math4.dir/NewtonMethod.o | /usr/lib/x86_64-linux-gnu/libpython3.10.so
   FLAGS = -g
-  LINK_LIBRARIES = /usr/lib/x86_64-linux-gnu/libpython3.10.so
+  LINK_FLAGS = -rdynamic
+  LINK_LIBRARIES = -lpython3.10
   OBJECT_DIR = CMakeFiles/comp_math4.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -115,6 +116,11 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Folder: /home/egor/CLionProjects/comp_math/comp-math4/cmake-build-debug
 
 build all: phony comp_math4
+
+# =============================================================================
+# Unknown Build Time Dependencies.
+# Tell Ninja that they may appear as side effects of build rules
+# otherwise ordered by order-only dependencies.
 
 # =============================================================================
 # Built-in targets

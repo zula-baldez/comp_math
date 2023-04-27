@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/egor/CLionProjects/comp_math/comp-math4/build",
+  "command": "/usr/bin/clang++  -I/usr/include/python3.10 -g -std=gnu++17 -o CMakeFiles/comp_math4.dir/main.o -c /home/egor/CLionProjects/comp_math/comp-math4/main.cpp",
+  "file": "/home/egor/CLionProjects/comp_math/comp-math4/main.cpp"
+},
+{
+  "directory": "/home/egor/CLionProjects/comp_math/comp-math4/build",
+  "command": "/usr/bin/clang++  -I/usr/include/python3.10 -g -std=gnu++17 -o CMakeFiles/comp_math4.dir/NewtonMethod.o -c /home/egor/CLionProjects/comp_math/comp-math4/NewtonMethod.cpp",
+  "file": "/home/egor/CLionProjects/comp_math/comp-math4/NewtonMethod.cpp"
+}
+]
